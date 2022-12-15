@@ -1,0 +1,19 @@
+{
+    "name": "MINI #3268",
+    "description": "This is a legendary MINI. Rare and unique. This MINI will receive bonus rewards when it is used on our IRL products.",
+    "image": "3268.png",
+    "dna": "4ef0d443cb5f6cd654b9b0db1896d8be1e75d179",
+    "edition": 3268,
+    "date": 1661147915697,
+    "attributes": [
+        {
+            "trait_type": "MINI",
+            "value": "MICRO"
+        },
+        {
+            "trait_type": "Name",
+            "value": "Coming Soon"
+        }
+    ],
+    "compiler": "Mini's Art Engine"
+}
